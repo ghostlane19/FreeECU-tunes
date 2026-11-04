@@ -1,0 +1,10 @@
+{
+  "tunes": [
+    {
+      "name": "Big Boost Launch",
+      "author": "GHOSTLANE",
+      "description": "Boost control up to about 4 bar (below the engine damage limit), torque curve that pulls harder up top, limiter 7500 rpm. Launch control at 4200 rpm with launch boost, arm it with the brake or the transbrake key. Fully locked diff, longer final drive (2.88), quick shifts, mild pops & bangs above 4700 rpm.",
+      "code": "FECU1:bmw_m240_g42_tuned_mlz:AsMEAAB42q2SS4pbQQxFN1Q89ClJJcwbZAGZZQNuYkIgHTvuTsjycyUwxtN2KPscCVy6ovCfPQ+nn8eXH6evOw8e9Pgt3s7hcrweX/e5UQzaMrW4bMxFNGRbaG2oogkDOGwEPIV1yEhUNPqHq+c6oVkEshSDRvZnBkvPCpBjcJ8kdLgJctMU0i5zIoA35BAkURp8uF5eP/39/rZzh8wAUhE6OxmtqgKrlwwg0JoQ4GidFfBeLQBDW/seXs7nt/fPx8suG4I3Y7KAXVITDhdzOFmmD90oQhMWE1F4KpHAThoGh0cynFz350YWVualybASk8CThRg2GdLBOsVKUTTqJirYreIiStZNBNDTSMIgNimJNRPQGfbB6Sk9EXAvyA0rh20cgDy1tPRiQHCH3PHUUzigs7CAue4pz4zlghgw9f+MXavf93HR+yN/fFlAbhtbAO63R155eD9ff/0+1R+dNtcBGLGvKkKcvIpMpYkilEOyiiCfjGKxE3fhQX0rRaZLFYtMY/BGmj7LuXTBbLbKwhxtd0lY5fDtdLx+6YV2Hg/nH3aL9lE"
+    }
+  ]
+}
